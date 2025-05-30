@@ -1,0 +1,21 @@
+1.List all restaurants in Bangalore.
+2.Find all restaurants that offer online delivery.
+3.Show top 10 restaurants by votes.
+4.Find all restaurants that serve North Indian cuisine.
+5.List restaurants with a rating above 4.5.
+6.Find the average cost for two for each city.
+7.Which cuisines are offered most frequently?
+8.Top 5 locations in Delhi with highest average rating.
+9.Find restaurants with inconsistent data (votes = 0 and rating > 4).
+10.Count of restaurants offering table booking city-wise.
+11.Rank restaurants in Mumbai by rating within each location.
+12.Find top-rated restaurant in each city.
+13.Find the most common cost for two range per city.
+14.Restaurants with rating higher than city average.
+15.Which city has the most high-end restaurants (cost > ₹1000 & rating > 4)?
+16.Which cuisine has the highest average rating across all restaurants?
+17.Identify restaurants with poor ratings (<3.0) but high votes (>500).
+18.Find restaurants that have the same name but are in different cities (franchise check).
+19.Suggest cities where Zomato could promote delivery services (cities with many restaurants but low online delivery %).
+20. Find duplicates in restaurant names in same location.
+

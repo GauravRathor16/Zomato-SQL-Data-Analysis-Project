@@ -11,6 +11,12 @@ This project focuses on cleaning and analyzing Zomato restaurant data using **SQ
 
 ---
 
+##Zomato Dataset 
+ zomato :- https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset?resource=download
+zomato_VR
+location
+
+
 ## 📂 Files Included
 
 | File Name                  | Description                                |
